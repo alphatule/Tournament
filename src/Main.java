@@ -4,6 +4,7 @@ public class Main {
 
         davide();
         nacho();
+        alex();
     }
     private static void davide(){
         System.out.println("Hello Davide!");
@@ -11,5 +12,9 @@ public class Main {
 
     private static void nacho(){
         System.out.println("Hello davide!");
+    }
+
+    private static void alex(){
+        System.out.println("Hello Alex!");
     }
 }
