@@ -14,6 +14,6 @@ public class Main {
     }
 
     private static void nacho(){
-        System.out.println("Hello davide mamyema!");
+        System.out.println("Hello davide mamañema!");
     }
 }
