@@ -3,8 +3,13 @@ public class Main {
         System.out.println("Hello world!");
 
         davide();
+        nacho();
     }
     private static void davide(){
         System.out.println("Hello Davide!");
+    }
+
+    private static void nacho(){
+        System.out.println("Hello Nacho!");
     }
 }
